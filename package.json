@@ -9,22 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "16.0.3",
+    "next": "16.0.6",
     "react": "19.2.0",
     "react-dom": "19.2.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@next/eslint-plugin-next": "^16.0.3",
+    "@next/eslint-plugin-next": "^16.0.6",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^24",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.0.3",
+    "eslint-config-next": "16.0.6",
     "eslint-plugin-react-hooks": "^7.0.1",
     "postcss": "^8.5.6",
-    "prettier": "^3.6.2",
+    "prettier": "^3.7.3",
     "prettier-plugin-tailwindcss": "^0.7.1",
     "tailwindcss": "^4",
     "typescript": "^5"
